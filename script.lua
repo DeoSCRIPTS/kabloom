@@ -2,6 +2,8 @@
 	 # Discord server is: "https://discord.gg/4THYgrRQd3"
 	 # Join our server for more updates and information]]--
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")
 local LocalizationService = game:GetService("LocalizationService")
